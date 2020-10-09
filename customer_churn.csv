@@ -1,4 +1,4 @@
-ID,CHURN,Gender,Status,Children,EstIncome,Car Owner,Age,LongDistance,International,Local,Dropped,Paymethod,LocalBilltype,LongDistanceBilltype,Usage,RatePlan
+ID,CHURN,Gender,Status,Children,EstIncome,CarOwner,Age,LongDistance,International,Local,Dropped,Paymethod,LocalBilltype,LongDistanceBilltype,Usage,RatePlan
 1,"T","F","S",1.000000,38000.000000,"N",24.393333,23.560000,0.000000,206.080000,0.000000,"CC","Budget","Intnl_discount",229.640000,3.000000
 6,"F","M","M",2.000000,29616.000000,"N",49.426667,29.780000,0.000000,45.500000,0.000000,"CH","FreeLocal","Standard",75.290000,2.000000
 8,"F","M","M",0.000000,19732.800000,"N",50.673333,24.810000,0.000000,22.440000,0.000000,"CC","FreeLocal","Standard",47.250000,3.000000
